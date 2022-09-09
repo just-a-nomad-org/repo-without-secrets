@@ -1,5 +1,5 @@
 package main
 
 func main() {
-  fmt.Println("public_key is not present here!") 
+  fmt.Println("hello world!") 
 }
